@@ -1,0 +1,66 @@
+##Scada/ICS/OT Hacking Using Shodan Offensive OSINT
+
+Feel Free to Use these SHODAN DORKS to enhance your searches.
+```
+ABB AC 800M
+ABB RTU560
+ABB RTU-Helpdesk
+ABB SREA-01
+ABB Webmodule
+AKCP Embedded Web Server
+A440 Wireless Modem
+A850 Telemetry Gateway
+addUPI Server
+addVANTAGE
+title:adcon
+IPC@CHIP
+Cimetrics Eplus Web Server
+ISC SCADA Service HTTPserv:00001
+Webvisu
+Visu Remote Login
+port:2455 operating system
+3S-Smart Software Solutions
+DELTA enteliTOUCH
+i.LON
+CIMPLICITY WebView
+CIMPLICITY-HttpSvr
+ProficyPortal
+port:18245,18246 product:"general electric"
+port:502
+port:20000 source address
+port:47808
+port:44818
+port:5094 hart-ip
+GoAhead-Webs InitialPage.asp
+Modbus Bridge
+ModbusGW
+PLC type
+PLC name
+Powerlink
+SCADA
+webSCADA
+HMS AnyBus-S WebServer
+eiPortal
+EnergyICT RTU
+port:20547 PLC
+lantronix
+lantronix port:9999
+port:30718 lantronix
+port:5006,5007 product:mitsubishi
+Moscad ACE
+MovWebClientX
+ioLogik Web Server
+port:4800 'Moxa Nport'
+title:'NPort web console'
+MoxaHttp
+port:4800 'OnCell'
+```
+NOTE: In the age of interconnected devices, Shodan, a powerful search engine, has emerged 
+as a double-edged sword for SCADA systems. On one hand, it serves as a critical tool for 
+cybersecurity researchers and administrators to identify exposed or improperly configured SCADA systems, 
+shedding light on potential vulnerabilities. This enables security experts to study and understand the security 
+landscape of SCADA ecosystems, ultimately leading to improved practices and heightened awareness among system operators. 
+However, we must tread cautiously. Actively searching for SCADA systems can attract unwanted attention, inviting 
+both ethical and legal concerns. Unauthorized access or testing of critical infrastructure can open the door to malicious threats. 
+As we leverage the power of Shodan to unveil SCADA vulnerabilities, it is vital that we embrace responsible practices and prioritize 
+the implementation of robust security measures to safeguard our critical infrastructure from potential risks.
